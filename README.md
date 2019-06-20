@@ -1,6 +1,6 @@
-# Robinhood Shell
+# Robinhood Query
 
-Robinhood Shell is a command line shell for trading stocks using [Robinhood](https://robinhood.com/).
+Robinhood Query is a command line shell for querying stocks using [Robinhood](https://robinhood.com/) forked from [Robinhood Shell](https://github.com/anilshanbhag/RobinhoodShell).
 
 ![Robinhood Shell](https://i.imgur.com/XjrtYXB.png)
 
@@ -23,7 +23,7 @@ If you don't have a Robinhood account, sign up for Robinhood. It is a free stock
 
 Before you begin, make sure you have `Python3` installed. Robinhood shell only works with python3. Some of the functionality is broken on python2.7 
 
-1. Download Robinhood Shell by downloading the zip file ([link](https://github.com/anilshanbhag/RobinhoodShell/archive/dev.zip)) OR by using git 
+1. Download Robinhood Shell by using git 
 
 ```
 git clone https://github.com/anilshanbhag/RobinhoodShell.git
